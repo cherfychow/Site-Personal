@@ -1,7 +1,7 @@
-# Theme and page codes for CherChow.com
-**Author**: Cher Chow
-**Features**: Theme and manual page code for a personal blog running on Wordpress. 
-**Requirements**: Wordpress 5+, PHP 7+
+# Theme and page code for CherChow.com
+**Author**: Cher Chow  
+**Features**: Theme and manual page code for a personal blog running on Wordpress.   
+**Requirements**: Wordpress 5+, PHP 7+  
 
 ### Bangka Theme
 This theme is all about large, clear elements. Huge typography, almost full screen photos. No hiding the pretty things :) Features Freight and HK Grotesk typefaces with a Kelly Green and manilla envelope pink palette. Blog posts have split styling for landscape and portrait photos with blockquote-like captions (again, everything's large). The webfonts aren't included in this repo because they're not mine to put out there.
