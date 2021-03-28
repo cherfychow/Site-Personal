@@ -5,9 +5,6 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
@@ -18,3 +15,5 @@ This work is licensed under a
 ### Bangka Theme
 This theme is all about large, clear elements. Huge typography, almost full screen photos. No hiding the pretty things :) Features Freight and HK Grotesk typefaces with a Kelly Green and manilla envelope pink palette. Blog posts have split styling for landscape and portrait photos with blockquote-like captions (again, everything's large). The webfonts aren't included in this repo because they're not mine to put out there.
 
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
