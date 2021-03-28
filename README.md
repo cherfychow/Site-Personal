@@ -1,6 +1,6 @@
 # Theme and page code for CherChow.com
 **Author**: Cher Chow  
-**Features**: Supports a blog feed, about + contact page (manual), and a Masonry-style portfolio theme templates.    
+**Features**: Supports a blog feed, about + contact page (manual), and Masonry-style portfolio theme templates.    
 **Requirements**: Wordpress 5+, PHP 7+  
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
